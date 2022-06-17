@@ -1,0 +1,750 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9027805006407791592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: e81649aa-1d27-425a-ba6f-4a0cb5ca555b
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: not yet...
+  _nextDialogues:
+  - 714660ff-8760-4078-8238-d5b66bb5ac05
+  _nodeRect:
+    serializedVersion: 2
+    x: 944
+    y: 757
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-7763649173287406732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 4b9cd1c3-496e-40e8-b900-280fc83f7a90
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFSe termin\xF3 esto?"
+  _nextDialogues:
+  - 5d3506c0-6be6-4b9c-b715-dc70cb55d613
+  _nodeRect:
+    serializedVersion: 2
+    x: 845
+    y: 211
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-7499915302064161151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: c4ca3d1f-7fd3-4888-af67-b15672b53d70
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: That is because you haven't explore everything! You NEED to find
+    the 'cactus spell'!
+  _nextDialogues:
+  - ecf1c3b8-3313-4a90-be0b-84dcd0263fbd
+  - 546255aa-a078-4ed9-afcc-4c1603ac1780
+  _nodeRect:
+    serializedVersion: 2
+    x: 1562
+    y: 568
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-7189680620641670003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: b096cc1f-9a6a-4e58-a6a6-b21a7e9d6547
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: And do you actually believe that is just as easy as walking in straight
+    line?!
+  _nextDialogues:
+  - 78fb3a63-175c-4ce0-a273-2cbd943777f6
+  _nodeRect:
+    serializedVersion: 2
+    x: 2002
+    y: 394
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-6922554055866881711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: a4a52d4f-53e7-4273-8340-978179083609
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "Y que crees, \xBFque era s\xF3lo caminar en l\xEDnea recta y listo?"
+  _nextDialogues:
+  - 49e86b3d-4b4e-48e1-8798-dc6ed92c1736
+  _nodeRect:
+    serializedVersion: 2
+    x: 2427
+    y: 8
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-5269957787227630372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 6ccea80c-1873-45aa-a48b-f1a44cdea836
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: hmmm.. well you know what to look for, now go!
+  _nextDialogues: []
+  _nodeRect:
+    serializedVersion: 2
+    x: 2402
+    y: 394
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-5199177657463996712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 3a0a3eee-1203-4a91-85e1-7e90eca8081d
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Cactus?! I didn't see any cactus
+  _nextDialogues:
+  - c4ca3d1f-7fd3-4888-af67-b15672b53d70
+  _nodeRect:
+    serializedVersion: 2
+    x: 1323
+    y: 577
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-4183952187684197929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 49e86b3d-4b4e-48e1-8798-dc6ed92c1736
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "Por lo general as\xED me ha funcionado hasta ahora"
+  _nextDialogues:
+  - 814e6013-6796-434b-8d30-eba275175a1f
+  _nodeRect:
+    serializedVersion: 2
+    x: 2707
+    y: 9
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-4174019821909686384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 5df8ca03-352d-42ea-94ff-877539f6d05a
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "AAAagggh, pero ya llegu\xE9 ac\xE1"
+  _nextDialogues:
+  - a4a52d4f-53e7-4273-8340-978179083609
+  _nodeRect:
+    serializedVersion: 2
+    x: 2157
+    y: 8
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-3242275866263298543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 5b9d6b41-a17d-4217-b372-6095b55a2563
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "S\xED, veo que pudiste pasar por todos los guardias"
+  _nextDialogues:
+  - 057aaa8c-de0e-4a1e-beab-9246289b5de0
+  - 4b9cd1c3-496e-40e8-b900-280fc83f7a90
+  _nodeRect:
+    serializedVersion: 2
+    x: 575
+    y: 132
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-3206122000026941586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 3e59ef6d-988e-4099-a27c-ff02cd6030c0
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: HoooOOla Chak!!
+  _nextDialogues:
+  - 5fecd6a0-7c63-45ce-94b0-ae55c0064a0d
+  - ed678cc4-bc5a-467e-8e99-1d89183def84
+  _nodeRect:
+    serializedVersion: 2
+    x: 13
+    y: 358
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-3075080591481168957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: ebee6250-df23-4fa6-a489-560b3e0d8d0d
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "...larga historia, pero veo que \xA1\xA1a\xFAn no has obtenido
+    el poder del cactus!!"
+  _nextDialogues:
+  - e508f0a6-38a0-462b-89dd-670063019cca
+  _nodeRect:
+    serializedVersion: 2
+    x: 1369
+    y: 89
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-2981907676785659177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 714660ff-8760-4078-8238-d5b66bb5ac05
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: ...it is a long story, but I see that you haven't gotten the 'power
+    of the cactus'!
+  _nextDialogues:
+  - 3a0a3eee-1203-4a91-85e1-7e90eca8081d
+  _nodeRect:
+    serializedVersion: 2
+    x: 1123
+    y: 577
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-2044764076504657575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: ecf1c3b8-3313-4a90-be0b-84dcd0263fbd
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: UUugggh, but I'm finally here
+  _nextDialogues:
+  - b096cc1f-9a6a-4e58-a6a6-b21a7e9d6547
+  _nodeRect:
+    serializedVersion: 2
+    x: 1802
+    y: 394
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-1463412695754389276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 5fecd6a0-7c63-45ce-94b0-ae55c0064a0d
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xA1\xA1Smitty!! \xBFeres t\xFA al final?"
+  _nextDialogues:
+  - 5b9d6b41-a17d-4217-b372-6095b55a2563
+  _nodeRect:
+    serializedVersion: 2
+    x: 257
+    y: 135
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdfeae62bfc74a14093f54d61e4bb6ac, type: 3}
+  m_Name: d_Smitty_init
+  m_EditorClassIdentifier: 
+  _dialogues:
+  - {fileID: -3206122000026941586}
+  - {fileID: -1463412695754389276}
+  - {fileID: -3242275866263298543}
+  - {fileID: 1994745657613547926}
+  - {fileID: -7763649173287406732}
+  - {fileID: 1471046564591087533}
+  - {fileID: -3075080591481168957}
+  - {fileID: 5871538207088717416}
+  - {fileID: 2700257622198806689}
+  - {fileID: -4174019821909686384}
+  - {fileID: 1620134137169431925}
+  - {fileID: -6922554055866881711}
+  - {fileID: -4183952187684197929}
+  - {fileID: 7973461244663124682}
+  - {fileID: 1608226250030077827}
+  - {fileID: 8732238414202429346}
+  - {fileID: 7234888796332519595}
+  - {fileID: 1252567052449815977}
+  - {fileID: 1513401056169578672}
+  - {fileID: -9027805006407791592}
+  - {fileID: -2981907676785659177}
+  - {fileID: -5199177657463996712}
+  - {fileID: -7499915302064161151}
+  - {fileID: -2044764076504657575}
+  - {fileID: 1912079578608394779}
+  - {fileID: -7189680620641670003}
+  - {fileID: 3676597294305491046}
+  - {fileID: -5269957787227630372}
+  - {fileID: 1409263954708558561}
+--- !u!114 &1252567052449815977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 8d63f669-10f5-4155-86dd-3a72a71eb5d4
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: and now what? what is going on?!
+  _nextDialogues:
+  - 714660ff-8760-4078-8238-d5b66bb5ac05
+  _nodeRect:
+    serializedVersion: 2
+    x: 752
+    y: 440
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1409263954708558561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: d907b5cf-b22d-4fa6-9d5b-7ffd851d8142
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Yes, it is the key to continue through this dream. Perhaps, there
+    are others that might now something else
+  _nextDialogues:
+  - 6ccea80c-1873-45aa-a48b-f1a44cdea836
+  _nodeRect:
+    serializedVersion: 2
+    x: 2006
+    y: 616
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1471046564591087533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 5d3506c0-6be6-4b9c-b715-dc70cb55d613
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "no a\xFAn..."
+  _nextDialogues:
+  - ebee6250-df23-4fa6-a489-560b3e0d8d0d
+  _nodeRect:
+    serializedVersion: 2
+    x: 1138
+    y: 209
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1513401056169578672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: d3d5ffb8-ae76-4956-bc74-2e2689af1442
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: So... it is the end?
+  _nextDialogues:
+  - e81649aa-1d27-425a-ba6f-4a0cb5ca555b
+  _nodeRect:
+    serializedVersion: 2
+    x: 744
+    y: 757
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1608226250030077827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: f84c3607-9fc4-4343-a92e-e33f75b7b7dc
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "S\xED, es la llave para poder seguir y terminar este sue\xF1o.
+    Quiz\xE1s haya otras personas que sepan algo m\xE1s"
+  _nextDialogues:
+  - 814e6013-6796-434b-8d30-eba275175a1f
+  _nodeRect:
+    serializedVersion: 2
+    x: 2462
+    y: 211
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1620134137169431925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 2c4ba049-529a-489c-9cf8-ecdebdfc083d
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFTiene que ver todo esto con el CREADOR?"
+  _nextDialogues:
+  - f84c3607-9fc4-4343-a92e-e33f75b7b7dc
+  _nodeRect:
+    serializedVersion: 2
+    x: 2146
+    y: 211
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1912079578608394779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 546255aa-a078-4ed9-afcc-4c1603ac1780
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: all this is related with the CREATOR?
+  _nextDialogues:
+  - d907b5cf-b22d-4fa6-9d5b-7ffd851d8142
+  _nodeRect:
+    serializedVersion: 2
+    x: 1806
+    y: 616
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1994745657613547926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 057aaa8c-de0e-4a1e-beab-9246289b5de0
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "...y ahora qu\xE9? \xBFqu\xE9 est\xE1 pasando?"
+  _nextDialogues:
+  - ebee6250-df23-4fa6-a489-560b3e0d8d0d
+  _nodeRect:
+    serializedVersion: 2
+    x: 842
+    y: 1
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &2700257622198806689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: a7d02e37-b0e5-4119-a534-0a7f4ab621e5
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "\xA1Eso es porque no exploraste todo! \xA1TIENES que encontrar
+    el super hechizo del cactus!"
+  _nextDialogues:
+  - 5df8ca03-352d-42ea-94ff-877539f6d05a
+  - 2c4ba049-529a-489c-9cf8-ecdebdfc083d
+  _nodeRect:
+    serializedVersion: 2
+    x: 1886
+    y: 90
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &3676597294305491046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 78fb3a63-175c-4ce0-a273-2cbd943777f6
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Well, in general it works for me
+  _nextDialogues:
+  - 6ccea80c-1873-45aa-a48b-f1a44cdea836
+  _nodeRect:
+    serializedVersion: 2
+    x: 2202
+    y: 394
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5871538207088717416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: e508f0a6-38a0-462b-89dd-670063019cca
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xA1\xBFCactus?! no vi ning\xFAn cactus"
+  _nextDialogues:
+  - a7d02e37-b0e5-4119-a534-0a7f4ab621e5
+  _nodeRect:
+    serializedVersion: 2
+    x: 1630
+    y: 87
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &7234888796332519595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 75851bd4-4006-4a01-b8d9-9a6c69708a7b
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Indeed, I see... you could go through all the guards
+  _nextDialogues:
+  - 8d63f669-10f5-4155-86dd-3a72a71eb5d4
+  - d3d5ffb8-ae76-4956-bc74-2e2689af1442
+  _nodeRect:
+    serializedVersion: 2
+    x: 480
+    y: 645
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &7973461244663124682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 814e6013-6796-434b-8d30-eba275175a1f
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: hmmm.. ya sabes que hacer, ahora ve
+  _nextDialogues: []
+  _nodeRect:
+    serializedVersion: 2
+    x: 2978
+    y: 10
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &8732238414202429346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: ed678cc4-bc5a-467e-8e99-1d89183def84
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: What?! Smitty is it you?!!
+  _nextDialogues:
+  - 75851bd4-4006-4a01-b8d9-9a6c69708a7b
+  _nodeRect:
+    serializedVersion: 2
+    x: 280
+    y: 645
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 

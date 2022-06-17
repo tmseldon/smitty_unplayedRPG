@@ -1,0 +1,1616 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8858737156866079278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 6830b51d-bed5-4920-a707-2b1569377a67
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "Y eso que falta que te cuente m\xE1s cosas"
+  _nextDialogues:
+  - b6f2ab35-3a1d-445f-9eb2-a2dc7f20555c
+  _nodeRect:
+    serializedVersion: 2
+    x: 2517
+    y: 619
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-8823545482521532248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: c550c4c0-e5cb-4b49-8ea5-c1c44f91bcd3
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: No, maybe in a DLC
+  _nextDialogues:
+  - 6599ede8-9131-422b-934b-22e198fedad9
+  _nodeRect:
+    serializedVersion: 2
+    x: 1764
+    y: 626
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-8566324473286741238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: b1a5e4b3-bdf1-4a30-999b-03773590a78a
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Sort of... not totally about him but...
+  _nextDialogues:
+  - 5ff94ee1-7926-4cce-9a00-075e82dfca67
+  _nodeRect:
+    serializedVersion: 2
+    x: 1884
+    y: 866
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-7891928711479314909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 2c3aea57-6773-4f26-9da1-e00dbd531d4f
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "....darme informaci\xF3n sobre el CREADOR?"
+  _nextDialogues:
+  - c58d636e-3231-48a9-ae7b-ca7b278873d4
+  _nodeRect:
+    serializedVersion: 2
+    x: 1341
+    y: 165
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-7878599691383448154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 2041230c-8ab7-4dc3-a683-341e959ac0db
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Hmm... are you going to read me the future?
+  _nextDialogues:
+  - c550c4c0-e5cb-4b49-8ea5-c1c44f91bcd3
+  _nodeRect:
+    serializedVersion: 2
+    x: 1564
+    y: 626
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-6066384989975718195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 76ef6a9b-d6c2-444f-8685-2d22a979e63f
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Are you going to give me information about the CREATOR?
+  _nextDialogues:
+  - b1a5e4b3-bdf1-4a30-999b-03773590a78a
+  _nodeRect:
+    serializedVersion: 2
+    x: 1558
+    y: 783
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-4658675571954100356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: b6f2ab35-3a1d-445f-9eb2-a2dc7f20555c
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "Ehmm me dijeron que t\xFA podr\xEDas saber algo sobre el CREADOR
+    pero s\xF3lo has hablado de \"m\xED\""
+  _nextDialogues:
+  - 315507fb-6ac7-40b4-aca7-188aa9478483
+  _nodeRect:
+    serializedVersion: 2
+    x: 2807
+    y: 543
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-4537042742964780259
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 695b62b2-3522-40be-a8c2-1549ce8381ef
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Uhm I've been told that you could know more things about the CREATOR.
+    However, you've been talking about me all this time
+  _nextDialogues:
+  - a261a051-58cc-45fb-88bf-0cccfc9b0aa1
+  _nodeRect:
+    serializedVersion: 2
+    x: 2806
+    y: 1673
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-4316181395464988688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 822c4007-1ce3-4f1a-8150-a5eb0fc75878
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Yes~ but not you Chak. Your 'other you' instead... it will depend
+    on you, after playing this game.
+  _nextDialogues:
+  - b4dec7b9-59b2-4ab7-af8f-5d0a3c8a9bbd
+  _nodeRect:
+    serializedVersion: 2
+    x: 1696
+    y: 1553
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-3663720970014961243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 4f6b4711-b9e3-4363-9562-d91e44fb6e50
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: I think I have a headache
+  _nextDialogues:
+  - 542fd264-877b-4383-8944-89f98054c8b3
+  _nodeRect:
+    serializedVersion: 2
+    x: 2352
+    y: 1673
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-3623361532759277956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: b4dec7b9-59b2-4ab7-af8f-5d0a3c8a9bbd
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Wait what?! my 'other' me
+  _nextDialogues:
+  - 2a662d4d-2fbb-4924-bab9-6654d54109d1
+  _nodeRect:
+    serializedVersion: 2
+    x: 1896
+    y: 1553
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-3544676919523760335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: f1930425-c4ad-4a42-a3bb-8c7c5b9134fd
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "Ahm... Chak, en b\xFAsqueda de iluminaci\xF3n?"
+  _nextDialogues:
+  - 132c7d93-8453-437e-9924-fdb9f7702449
+  - e22a00e3-f3d9-4805-91af-b0f3ff36dbb2
+  _nodeRect:
+    serializedVersion: 2
+    x: -2
+    y: 369
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-3359969622796036041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: bb432975-777f-433a-928b-15e18b6d1a55
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: to me?
+  _nextDialogues:
+  - 4a996f64-4552-48bd-8162-7a51582c2e0f
+  _nodeRect:
+    serializedVersion: 2
+    x: 2930
+    y: 1190
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-3358701609795207949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 416c5445-1c68-48b7-bd21-bc062306d690
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFTan corta fue su visi\xF3n? no me parece tan grande este mundo"
+  _nextDialogues:
+  - 55db6442-e3ae-4f10-8733-dbc7fb41d2de
+  _nodeRect:
+    serializedVersion: 2
+    x: 2016
+    y: 314
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-3253819507932332129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 78d10786-84b4-468c-92fb-8bfc1741a5df
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: ...leerme la suerte?
+  _nextDialogues:
+  - 8ea50de9-211a-42c0-a8ee-2984c3f9ccf9
+  _nodeRect:
+    serializedVersion: 2
+    x: 1341
+    y: 15
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-1942396503600589695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: cf9951bb-2b11-4d5d-9cea-823d2f2ebe72
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: It is just a tiny part, he wanted to show it to...
+  _nextDialogues:
+  - eb843e3f-05d9-43d0-a781-518840f5b5cb
+  - bb432975-777f-433a-928b-15e18b6d1a55
+  _nodeRect:
+    serializedVersion: 2
+    x: 2652
+    y: 1060
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-1859784430756599148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 2450f798-531f-4923-83e1-90535640c480
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Hmm no entiendo
+  _nextDialogues:
+  - 57b21ccf-c341-479a-9607-77f49360b4fd
+  _nodeRect:
+    serializedVersion: 2
+    x: 1295
+    y: 282
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-1725538609843301429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: a261a051-58cc-45fb-88bf-0cccfc9b0aa1
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: The story that I mentioned before, it is not only about you
+  _nextDialogues:
+  - 5ff94ee1-7926-4cce-9a00-075e82dfca67
+  _nodeRect:
+    serializedVersion: 2
+    x: 3006
+    y: 1673
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-1520595520117089330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 17a9bab5-a085-49db-a1d4-5dd1aa5a7be9
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: On the contrary, it is about a transformation story
+  _nextDialogues:
+  - a0d62727-d638-41ed-9c0c-22e7e7ab5aac
+  - 4349b94c-e575-4dcb-83dc-adce6cb73014
+  _nodeRect:
+    serializedVersion: 2
+    x: 1276
+    y: 1218
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-1444960378079424863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 55db6442-e3ae-4f10-8733-dbc7fb41d2de
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "Es s\xF3lo una peque\xF1a parte, para mostrarlo a..."
+  _nextDialogues:
+  - 0b33aaf2-6ec1-4168-a476-b289ee0cdc0c
+  - 3f837f1e-0d9b-410e-a594-f090cda03b4c
+  _nodeRect:
+    serializedVersion: 2
+    x: 2248
+    y: 315
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-1086483207677511006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 31182903-6aed-4ac0-a9d6-0907a16b86be
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Ouh, hubiese sido interesante! supongo entonces que algo sobre el
+    CREADOR
+  _nextDialogues:
+  - c58d636e-3231-48a9-ae7b-ca7b278873d4
+  _nodeRect:
+    serializedVersion: 2
+    x: 1858
+    y: 16
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-932991845206780032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 3b49af2c-8359-4e28-b253-093c3c83c54f
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: And that call would be?
+  _nextDialogues:
+  - 9b4400ca-e2f8-4758-837b-c4d3d8d5cc39
+  _nodeRect:
+    serializedVersion: 2
+    x: 1100
+    y: 665
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-846787787948747602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: ad524040-e9e6-447f-9796-018239fdd39d
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Oh, sorry yes... Chak, are you looking for some enlightenment?
+  _nextDialogues:
+  - 6f9244d9-7cc0-4edf-84fe-6d2005661e14
+  _nodeRect:
+    serializedVersion: 2
+    x: 427
+    y: 797
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdfeae62bfc74a14093f54d61e4bb6ac, type: 3}
+  m_Name: d_Liz
+  m_EditorClassIdentifier: 
+  _dialogues:
+  - {fileID: -3544676919523760335}
+  - {fileID: 2642634536109849584}
+  - {fileID: 5299114896383332169}
+  - {fileID: 5209773169989357858}
+  - {fileID: 589364780424988270}
+  - {fileID: -3253819507932332129}
+  - {fileID: -7891928711479314909}
+  - {fileID: 4086544831864806329}
+  - {fileID: -1086483207677511006}
+  - {fileID: 1345178581849733054}
+  - {fileID: 3288592727530102601}
+  - {fileID: 6455511821736080089}
+  - {fileID: -1859784430756599148}
+  - {fileID: 6454208738170470948}
+  - {fileID: 7841783481147295353}
+  - {fileID: 6024548066581526654}
+  - {fileID: -3358701609795207949}
+  - {fileID: -1444960378079424863}
+  - {fileID: 3988235818123539531}
+  - {fileID: 9123881253635759859}
+  - {fileID: 6699777749093049273}
+  - {fileID: 296649436664458180}
+  - {fileID: 7434250453842089347}
+  - {fileID: 1608888622231795780}
+  - {fileID: 1330269816616915508}
+  - {fileID: 4697648730312488896}
+  - {fileID: 1318750340543309796}
+  - {fileID: 5390898699377456847}
+  - {fileID: -8858737156866079278}
+  - {fileID: -4658675571954100356}
+  - {fileID: 4748503773571233361}
+  - {fileID: 4885191547220781653}
+  - {fileID: -846787787948747602}
+  - {fileID: 5202754208173289408}
+  - {fileID: 5232395568866826265}
+  - {fileID: -932991845206780032}
+  - {fileID: 6178705162688141226}
+  - {fileID: -7878599691383448154}
+  - {fileID: -6066384989975718195}
+  - {fileID: -8823545482521532248}
+  - {fileID: 1031937793647974623}
+  - {fileID: -8566324473286741238}
+  - {fileID: 3099670752943459160}
+  - {fileID: -1520595520117089330}
+  - {fileID: 4597290049792270106}
+  - {fileID: 8402461652896869831}
+  - {fileID: 490567534011823957}
+  - {fileID: 1662484094721772203}
+  - {fileID: 3298361804129012196}
+  - {fileID: -1942396503600589695}
+  - {fileID: 1749648574293033557}
+  - {fileID: -3359969622796036041}
+  - {fileID: 5660781689427465772}
+  - {fileID: 9174327677945063048}
+  - {fileID: -4316181395464988688}
+  - {fileID: -3623361532759277956}
+  - {fileID: 6206995253416402152}
+  - {fileID: 7355103013414761302}
+  - {fileID: -3663720970014961243}
+  - {fileID: 3670281621778084738}
+  - {fileID: 3497817260338091991}
+  - {fileID: -4537042742964780259}
+  - {fileID: -1725538609843301429}
+--- !u!114 &296649436664458180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: fffb3649-bd4b-43b2-9855-f921d50e5f63
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "S\xED, pero no t\xFA t\xFA, Chak sino que t\xFA pero el que est\xE1
+    \"leyendo esto\""
+  _nextDialogues: []
+  _nodeRect:
+    serializedVersion: 2
+    x: 2754
+    y: 278
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &490567534011823957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 5ff94ee1-7926-4cce-9a00-075e82dfca67
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: It is about this world. Everything that you are looking, it was
+    going to be a tabletop roleplaying session for some friends of the CREATOR
+  _nextDialogues:
+  - d1007649-b133-4111-86de-c0446f4e1099
+  _nodeRect:
+    serializedVersion: 2
+    x: 1854
+    y: 1060
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &589364780424988270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 1c5eeff2-6c36-40de-aa65-c4e030f3676c
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Creo que lo sabes...
+  _nextDialogues:
+  - 78d10786-84b4-468c-92fb-8bfc1741a5df
+  - 2c3aea57-6773-4f26-9da1-e00dbd531d4f
+  _nodeRect:
+    serializedVersion: 2
+    x: 1036
+    y: 15
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1031937793647974623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 6599ede8-9131-422b-934b-22e198fedad9
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Uh, it would be interesting! Then, I guess it is something about
+    the CREATOR
+  _nextDialogues:
+  - b1a5e4b3-bdf1-4a30-999b-03773590a78a
+  _nodeRect:
+    serializedVersion: 2
+    x: 2011
+    y: 692
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1318750340543309796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 56581e00-17f1-4915-9649-8a0ed8bf5ece
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Creo que me duele la cabeza
+  _nextDialogues:
+  - 6830b51d-bed5-4920-a707-2b1569377a67
+  _nodeRect:
+    serializedVersion: 2
+    x: 2267
+    y: 618
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1330269816616915508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 65b3d437-dfdd-481e-8838-75fcb058f316
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "S\xED, yo s\xE9 qui\xE9n eres. Chak tu est\xE1s escuchando esto,
+    pero yo s\xE9 que tu otro yo est\xE1 \"leyendo esto\""
+  _nextDialogues:
+  - d70e54be-c613-4889-a8b7-64fade7c1f8a
+  - 56581e00-17f1-4915-9649-8a0ed8bf5ece
+  _nodeRect:
+    serializedVersion: 2
+    x: 2030
+    y: 480
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1345178581849733054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: c58d636e-3231-48a9-ae7b-ca7b278873d4
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "S\xED, no de \xE9l completamente sino que..."
+  _nextDialogues:
+  - 57b21ccf-c341-479a-9607-77f49360b4fd
+  _nodeRect:
+    serializedVersion: 2
+    x: 1629
+    y: 169
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1608888622231795780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: cd694374-7a7f-4b91-9243-634008f97c4b
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFNo entiendo, mi otro yo?"
+  _nextDialogues:
+  - 65b3d437-dfdd-481e-8838-75fcb058f316
+  _nodeRect:
+    serializedVersion: 2
+    x: 1781
+    y: 480
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1662484094721772203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: d1007649-b133-4111-86de-c0446f4e1099
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: That session never happened. Thus, the CREATOR didn't want to loose
+    his vision of that adventure. So, he created all this
+  _nextDialogues:
+  - 3389430a-8afa-4674-8270-e72e53ab636d
+  _nodeRect:
+    serializedVersion: 2
+    x: 2124
+    y: 1061
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1749648574293033557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: eb843e3f-05d9-43d0-a781-518840f5b5cb
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: to whom?
+  _nextDialogues:
+  - 43aa5761-7c10-4043-9a25-4fbfa7ca0785
+  _nodeRect:
+    serializedVersion: 2
+    x: 2938
+    y: 954
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &2642634536109849584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 132c7d93-8453-437e-9924-fdb9f7702449
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xA1\xBFQueee\xE9?! \xBFc\xF3mo sabes qui\xE9n soy y qu\xE9 quiero?"
+  _nextDialogues:
+  - 79bb8de9-9d12-47e8-90b5-e5fdbfa7ceb3
+  _nodeRect:
+    serializedVersion: 2
+    x: 244
+    y: 110
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &3099670752943459160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 7a7fdfb4-2f2f-4b7c-8f93-71c2be5f9490
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Ok... that sounds really ominous
+  _nextDialogues:
+  - 17a9bab5-a085-49db-a1d4-5dd1aa5a7be9
+  _nodeRect:
+    serializedVersion: 2
+    x: 1076
+    y: 1218
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &3288592727530102601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 2c7e6950-8502-4707-ad9c-a8f71e4d8f56
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "Ok... eso suena demasiado fat\xEDdico"
+  _nextDialogues:
+  - 31d1c3b0-373c-41c2-b654-8dfe790eb0cc
+  _nodeRect:
+    serializedVersion: 2
+    x: 756
+    y: 290
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &3298361804129012196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 3389430a-8afa-4674-8270-e72e53ab636d
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Well his vision was sort of short. I don't think this world is so
+    large
+  _nextDialogues:
+  - cf9951bb-2b11-4d5d-9cea-823d2f2ebe72
+  _nodeRect:
+    serializedVersion: 2
+    x: 2392
+    y: 1061
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &3497817260338091991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 542fd264-877b-4383-8944-89f98054c8b3
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Too bad, I still have a couple of things to say
+  _nextDialogues:
+  - 695b62b2-3522-40be-a8c2-1549ce8381ef
+  _nodeRect:
+    serializedVersion: 2
+    x: 2552
+    y: 1673
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &3670281621778084738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: e95e55d3-87fc-4147-ad1c-b73bc2927668
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: yeah sure... -wink wink-
+  _nextDialogues:
+  - 695b62b2-3522-40be-a8c2-1549ce8381ef
+  _nodeRect:
+    serializedVersion: 2
+    x: 2558
+    y: 1401
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &3988235818123539531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 0b33aaf2-6ec1-4168-a476-b289ee0cdc0c
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFMostrarlo a  qui\xE9n?"
+  _nextDialogues:
+  - 8ee78889-ffef-4cf3-9cb3-3e899d4146cc
+  _nodeRect:
+    serializedVersion: 2
+    x: 2514
+    y: 139
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &4086544831864806329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 8ea50de9-211a-42c0-a8ee-2984c3f9ccf9
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "No, quiz\xE1s en una pr\xF3xima expansi\xF3n (DLC)"
+  _nextDialogues:
+  - 31182903-6aed-4ac0-a9d6-0907a16b86be
+  _nodeRect:
+    serializedVersion: 2
+    x: 1605
+    y: 17
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &4597290049792270106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: a0d62727-d638-41ed-9c0c-22e7e7ab5aac
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Uhmm I do not understand
+  _nextDialogues:
+  - 5ff94ee1-7926-4cce-9a00-075e82dfca67
+  _nodeRect:
+    serializedVersion: 2
+    x: 1522
+    y: 1060
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &4697648730312488896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: d70e54be-c613-4889-a8b7-64fade7c1f8a
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "Ehmm.. noooo, yo soy s\xF3lo Chak no hay otra persona *cof cof*"
+  _nextDialogues:
+  - 3e85c4b9-0226-488f-b829-9ef56c119e78
+  _nodeRect:
+    serializedVersion: 2
+    x: 2276
+    y: 473
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &4748503773571233361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 315507fb-6ac7-40b4-aca7-188aa9478483
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "La historia que me refer\xEDa no se trata \xFAnicamente sobre ti"
+  _nextDialogues:
+  - 57b21ccf-c341-479a-9607-77f49360b4fd
+  _nodeRect:
+    serializedVersion: 2
+    x: 3043
+    y: 568
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &4885191547220781653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: e22a00e3-f3d9-4805-91af-b0f3ff36dbb2
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Sorry, didn't understand any word... that was my name tho?
+  _nextDialogues:
+  - ad524040-e9e6-447f-9796-018239fdd39d
+  _nodeRect:
+    serializedVersion: 2
+    x: 227
+    y: 797
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5202754208173289408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 6f9244d9-7cc0-4edf-84fe-6d2005661e14
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: WHAAAAT?! how do you know who am I, what do I want and also... you
+    speak both english and spanish?!
+  _nextDialogues:
+  - f88ae232-bb32-47d5-88ba-06bbff37cd8e
+  _nodeRect:
+    serializedVersion: 2
+    x: 627
+    y: 797
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5209773169989357858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 05cdf682-ef95-4af3-8776-2ea537ee7816
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFY ese prop\xF3sito ser\xEDa?"
+  _nextDialogues:
+  - 1c5eeff2-6c36-40de-aa65-c4e030f3676c
+  _nodeRect:
+    serializedVersion: 2
+    x: 764
+    y: 14
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5232395568866826265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: f88ae232-bb32-47d5-88ba-06bbff37cd8e
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: The CREATOR told me already everything... well, not all but enough
+    to fulfill my call
+  _nextDialogues:
+  - 3b49af2c-8359-4e28-b253-093c3c83c54f
+  - 7a7fdfb4-2f2f-4b7c-8f93-71c2be5f9490
+  _nodeRect:
+    serializedVersion: 2
+    x: 827
+    y: 797
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5299114896383332169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 79bb8de9-9d12-47e8-90b5-e5fdbfa7ceb3
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "El CREADOR me dijo todo lo necesario... bueno no todo, pero lo
+    suficiente para cumplir con mi prop\xF3sito"
+  _nextDialogues:
+  - 05cdf682-ef95-4af3-8776-2ea537ee7816
+  - 2c7e6950-8502-4707-ad9c-a8f71e4d8f56
+  _nodeRect:
+    serializedVersion: 2
+    x: 495
+    y: 118
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5390898699377456847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 3e85c4b9-0226-488f-b829-9ef56c119e78
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "Siii\xED, claro... *gui\xF1o gui\xF1o*"
+  _nextDialogues:
+  - b6f2ab35-3a1d-445f-9eb2-a2dc7f20555c
+  _nodeRect:
+    serializedVersion: 2
+    x: 2528
+    y: 476
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5660781689427465772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 43aa5761-7c10-4043-9a25-4fbfa7ca0785
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: I don't know. However, have you felt that someone is looking you
+    all the time? controlling you right now? maybe...
+  _nextDialogues: []
+  _nodeRect:
+    serializedVersion: 2
+    x: 3138
+    y: 954
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &6024548066581526654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 191a6e1a-2452-4c03-9b2b-5edf5aa71c15
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "El CREADOR decidi\xF3 no perder esa visi\xF3n y, tratar de convertirlo
+    en esto"
+  _nextDialogues:
+  - 416c5445-1c68-48b7-bd21-bc062306d690
+  _nodeRect:
+    serializedVersion: 2
+    x: 1790
+    y: 314
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &6178705162688141226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 9b4400ca-e2f8-4758-837b-c4d3d8d5cc39
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: I think you know...
+  _nextDialogues:
+  - 2041230c-8ab7-4dc3-a683-341e959ac0db
+  - 76ef6a9b-d6c2-444f-8685-2d22a979e63f
+  _nodeRect:
+    serializedVersion: 2
+    x: 1300
+    y: 665
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &6206995253416402152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 2a662d4d-2fbb-4924-bab9-6654d54109d1
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Yes, I know who you are. Chak you are 'listening' to this, but I
+    know that your 'other you' is reading this.
+  _nextDialogues:
+  - b287ecc6-5299-4b1b-a9fb-8651603d10dc
+  - 4f6b4711-b9e3-4363-9562-d91e44fb6e50
+  _nodeRect:
+    serializedVersion: 2
+    x: 2122
+    y: 1552
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &6454208738170470948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 7acc7b28-6e68-4fed-b796-3b698b1825c5
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFMe convertir\xE9 en algo diferente?"
+  _nextDialogues:
+  - 8804f025-16b8-4fba-8780-36ab21443ea6
+  _nodeRect:
+    serializedVersion: 2
+    x: 1289
+    y: 478
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &6455511821736080089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 31d1c3b0-373c-41c2-b654-8dfe790eb0cc
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "Al contrario, es una historia de transformaci\xF3n"
+  _nextDialogues:
+  - 2450f798-531f-4923-83e1-90535640c480
+  - 7acc7b28-6e68-4fed-b796-3b698b1825c5
+  _nodeRect:
+    serializedVersion: 2
+    x: 1030
+    y: 319
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &6699777749093049273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 8ee78889-ffef-4cf3-9cb3-3e899d4146cc
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "No lo s\xE9, pero \xBFno te has sentido observado o controlado
+    por alguien m\xE1s? quiz\xE1s..."
+  _nextDialogues: []
+  _nodeRect:
+    serializedVersion: 2
+    x: 2748
+    y: 137
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &7355103013414761302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: b287ecc6-5299-4b1b-a9fb-8651603d10dc
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Uhmm.. noooo, I'm just Chak there is no 'other me' -cough cough-
+  _nextDialogues:
+  - e95e55d3-87fc-4147-ad1c-b73bc2927668
+  _nodeRect:
+    serializedVersion: 2
+    x: 2358
+    y: 1401
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &7434250453842089347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 8804f025-16b8-4fba-8780-36ab21443ea6
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "Oh s\xED, pero no t\xFA Chak, sino que tu otro yo... depender\xE1
+    de ti despu\xE9s de jugar esto"
+  _nextDialogues:
+  - cd694374-7a7f-4b91-9243-634008f97c4b
+  _nodeRect:
+    serializedVersion: 2
+    x: 1541
+    y: 478
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &7841783481147295353
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 57b21ccf-c341-479a-9607-77f49360b4fd
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "Es sobre este mundo, todo lo que ves iba a ser una sesi\xF3n de
+    rol para unos amigos del CREADOR, pero nunca se logr\xF3 realizar"
+  _nextDialogues:
+  - 191a6e1a-2452-4c03-9b2b-5edf5aa71c15
+  _nodeRect:
+    serializedVersion: 2
+    x: 1547
+    y: 314
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &8402461652896869831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 4349b94c-e575-4dcb-83dc-adce6cb73014
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Am I going to transform into something different?
+  _nextDialogues:
+  - 822c4007-1ce3-4f1a-8150-a5eb0fc75878
+  _nodeRect:
+    serializedVersion: 2
+    x: 1496
+    y: 1553
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &9123881253635759859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 3f837f1e-0d9b-410e-a594-f090cda03b4c
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFPara m\xED?"
+  _nextDialogues:
+  - fffb3649-bd4b-43b2-9855-f921d50e5f63
+  _nodeRect:
+    serializedVersion: 2
+    x: 2506
+    y: 277
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &9174327677945063048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 4a996f64-4552-48bd-8162-7a51582c2e0f
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Yes, but not you 'you' Chak But to the 'you' who is reading this
+  _nextDialogues: []
+  _nodeRect:
+    serializedVersion: 2
+    x: 3130
+    y: 1190
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 

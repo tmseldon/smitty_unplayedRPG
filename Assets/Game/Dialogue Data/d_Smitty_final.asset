@@ -1,0 +1,750 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9019125232665138594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: f4ea1208-722a-46c6-a9b5-ffd58d141c6e
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: (gracias por jugar)
+  _nextDialogues:
+  - 325c7c1d-23ca-4a3b-abd5-4c5e597409c1
+  _nodeRect:
+    serializedVersion: 2
+    x: 2508
+    y: 120
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-8447291539810154473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: e449cb78-e984-4fa6-94f2-6d84b4067e71
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: I'm tired, can we go to a more relaxed place?
+  _nextDialogues:
+  - 1f2c4144-61e6-4859-be20-770be8618963
+  _nodeRect:
+    serializedVersion: 2
+    x: 757
+    y: 640
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-8436605133129267513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 4e81f9a1-2dac-4cd3-99b5-c3bf0eddeda6
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFNoo?"
+  _nextDialogues:
+  - 6dc1f6fd-4d10-4762-b4ad-b6c7bf370afb
+  _nodeRect:
+    serializedVersion: 2
+    x: 2043
+    y: 3
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-7580833365981424664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: d971e146-f853-4084-a6c1-a4c579a5458b
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "Ya estoy cansado, \xBFno podemos ir a un lugar m\xE1s relajado?"
+  _nextDialogues:
+  - 31dd1c18-d94a-4d79-9343-7627561b8c95
+  _nodeRect:
+    serializedVersion: 2
+    x: 763
+    y: 231
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-7471802695402695098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 7af02737-4304-4c24-adb3-32ae46e6dd20
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: (thanks for playing)
+  _nextDialogues:
+  - 936fe19a-9076-4f38-990d-73ec031159c1
+  _nodeRect:
+    serializedVersion: 2
+    x: 2409
+    y: 437
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-7177401214191158108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 1e3b66b2-6ab5-494f-83b0-f9eefa538a8c
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: NOO! and now what?
+  _nextDialogues:
+  - ef59cc4e-1eaf-4940-bc9f-277a7786afb4
+  _nodeRect:
+    serializedVersion: 2
+    x: 1473
+    y: 396
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-6967553222053803390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 8a8d80a1-b213-4567-88c6-d19b947f2348
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: ...this is just a free sample, maybe in the future the dream will
+    be longer
+  _nextDialogues:
+  - 1e3b66b2-6ab5-494f-83b0-f9eefa538a8c
+  - 267f93d6-9a12-40da-b227-abfeab525c47
+  _nodeRect:
+    serializedVersion: 2
+    x: 1211
+    y: 519
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-6757806314964945402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: f3a1a08d-d755-459d-8fdb-2ff3514e226e
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Ok, I got the stupid cactus, now what?
+  _nextDialogues:
+  - d4966cb1-d46c-41aa-a140-5a31bce95cd6
+  _nodeRect:
+    serializedVersion: 2
+    x: 276
+    y: 530
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-6708727926647268058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 267f93d6-9a12-40da-b227-abfeab525c47
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Can I go then?
+  _nextDialogues:
+  - ef59cc4e-1eaf-4940-bc9f-277a7786afb4
+  _nodeRect:
+    serializedVersion: 2
+    x: 1470
+    y: 604
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-6365118383046953939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 2b8b17ca-0fa7-4fe4-8c06-f3922654aa27
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "HoooOOla Chak!! \xBFtienes el cactus? do you have the..."
+  _nextDialogues:
+  - 52afa2b0-1ab1-4d60-964f-5562e8e08e5c
+  - f3a1a08d-d755-459d-8fdb-2ff3514e226e
+  _nodeRect:
+    serializedVersion: 2
+    x: 34
+    y: 259
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-6270193723517010200
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: ef59cc4e-1eaf-4940-bc9f-277a7786afb4
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: well... for now this dream will repeat itself over and over again,
+    are you ready?
+  _nextDialogues:
+  - e73787f9-dd3e-4b5f-b7d8-71aeb48ed7e2
+  - 0a9324c6-1951-456f-a0ca-4bb636c5b465
+  _nodeRect:
+    serializedVersion: 2
+    x: 1709
+    y: 481
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-5159839463784205092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 52afa2b0-1ab1-4d60-964f-5562e8e08e5c
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "Ya tengo el est\xFApido cactus, \xBFy ahora?"
+  _nextDialogues:
+  - de163f41-d4fc-4880-984f-a276f6291b8a
+  _nodeRect:
+    serializedVersion: 2
+    x: 291
+    y: 127
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-4220270089072296689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 4984d740-bf38-49ae-84a7-83d855f16373
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xA1UUhh! pr\xF3xima etapa!"
+  _nextDialogues:
+  - 31dd1c18-d94a-4d79-9343-7627561b8c95
+  _nodeRect:
+    serializedVersion: 2
+    x: 770
+    y: 13
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-4123548369200041632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 2f2173c0-b6ff-46c9-97f0-209f8cf89f6e
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "...esto es s\xF3lo una muestra gratis, quiz\xE1s en el futuro el
+    sue\xF1o sea m\xE1s largo"
+  _nextDialogues:
+  - aece1b4e-14ad-4fdc-8c46-9cbb7f597936
+  - e349a7fa-27a5-4bf7-8c9f-7bd642fda4bf
+  _nodeRect:
+    serializedVersion: 2
+    x: 1238
+    y: 123
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-3339554045902350874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 1f2c4144-61e6-4859-be20-770be8618963
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Hmmm actually no, there isn't enough time to make more levels....
+  _nextDialogues:
+  - 8a8d80a1-b213-4567-88c6-d19b947f2348
+  _nodeRect:
+    serializedVersion: 2
+    x: 1011
+    y: 519
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-2860751715012469675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: d4966cb1-d46c-41aa-a140-5a31bce95cd6
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Now, you can continue
+  _nextDialogues:
+  - 92168ea3-a69c-4b27-b6cd-b8ac8efb0494
+  - e449cb78-e984-4fa6-94f2-6d84b4067e71
+  _nodeRect:
+    serializedVersion: 2
+    x: 522
+    y: 530
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-2708022810307685683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 0a9324c6-1951-456f-a0ca-4bb636c5b465
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Noo?
+  _nextDialogues:
+  - 702b6061-4926-41ac-a6c4-24ba2e2113a1
+  _nodeRect:
+    serializedVersion: 2
+    x: 1973
+    y: 553
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-2117021036081627143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 92168ea3-a69c-4b27-b6cd-b8ac8efb0494
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: UUhh! next level!
+  _nextDialogues:
+  - 1f2c4144-61e6-4859-be20-770be8618963
+  _nodeRect:
+    serializedVersion: 2
+    x: 762
+    y: 414
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-1925214596546834669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 6dc1f6fd-4d10-4762-b4ad-b6c7bf370afb
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Da un poco lo mismo, no hay otra alternativa que el GRAN REINICIO
+  _nextDialogues:
+  - f4ea1208-722a-46c6-a9b5-ffd58d141c6e
+  _nodeRect:
+    serializedVersion: 2
+    x: 2308
+    y: 120
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-593826295737578514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: e349a7fa-27a5-4bf7-8c9f-7bd642fda4bf
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFMe puedo ir entonces?"
+  _nextDialogues:
+  - 061c98a8-ae24-4962-a403-f54d8cf7510a
+  _nodeRect:
+    serializedVersion: 2
+    x: 1487
+    y: 231
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-463980029842486929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 325c7c1d-23ca-4a3b-abd5-4c5e597409c1
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "Ok supongo, reinicia el sue\xF1o"
+  _nextDialogues: []
+  _nodeRect:
+    serializedVersion: 2
+    x: 2739
+    y: 120
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: reboot
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdfeae62bfc74a14093f54d61e4bb6ac, type: 3}
+  m_Name: d_Smitty_final
+  m_EditorClassIdentifier: 
+  _dialogues:
+  - {fileID: -6365118383046953939}
+  - {fileID: -5159839463784205092}
+  - {fileID: -6757806314964945402}
+  - {fileID: 2614602965938693248}
+  - {fileID: -4220270089072296689}
+  - {fileID: -7580833365981424664}
+  - {fileID: 1281997632500239938}
+  - {fileID: -4123548369200041632}
+  - {fileID: 5240632559778638553}
+  - {fileID: -593826295737578514}
+  - {fileID: 7863136289216833488}
+  - {fileID: -8436605133129267513}
+  - {fileID: 3913605327694402616}
+  - {fileID: -1925214596546834669}
+  - {fileID: -9019125232665138594}
+  - {fileID: -463980029842486929}
+  - {fileID: -2860751715012469675}
+  - {fileID: -2117021036081627143}
+  - {fileID: -8447291539810154473}
+  - {fileID: -3339554045902350874}
+  - {fileID: -6967553222053803390}
+  - {fileID: -7177401214191158108}
+  - {fileID: -6708727926647268058}
+  - {fileID: -6270193723517010200}
+  - {fileID: 5922351966469499773}
+  - {fileID: -2708022810307685683}
+  - {fileID: 4154824226534411841}
+  - {fileID: -7471802695402695098}
+  - {fileID: 3803199859726214540}
+--- !u!114 &1281997632500239938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 31dd1c18-d94a-4d79-9343-7627561b8c95
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "Ehmm la verdad no, no alcanz\xF3 el tiempo para hacer m\xE1s niveles..."
+  _nextDialogues:
+  - 2f2173c0-b6ff-46c9-97f0-209f8cf89f6e
+  _nodeRect:
+    serializedVersion: 2
+    x: 1038
+    y: 123
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &2614602965938693248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: de163f41-d4fc-4880-984f-a276f6291b8a
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Ahora ya puedes continuar
+  _nextDialogues:
+  - 4984d740-bf38-49ae-84a7-83d855f16373
+  - d971e146-f853-4084-a6c1-a4c579a5458b
+  _nodeRect:
+    serializedVersion: 2
+    x: 491
+    y: 127
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &3803199859726214540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 936fe19a-9076-4f38-990d-73ec031159c1
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Ok, restart the dream I guess
+  _nextDialogues: []
+  _nodeRect:
+    serializedVersion: 2
+    x: 2609
+    y: 437
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: reboot
+--- !u!114 &3913605327694402616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: df54707d-ca2b-4bc8-8138-9166440e6085
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFSi\xED?"
+  _nextDialogues:
+  - 6dc1f6fd-4d10-4762-b4ad-b6c7bf370afb
+  _nodeRect:
+    serializedVersion: 2
+    x: 2050
+    y: 219
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &4154824226534411841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 702b6061-4926-41ac-a6c4-24ba2e2113a1
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: It really doesn't matter, there is no other alternative rather than
+    the GREAT REBOOT
+  _nextDialogues:
+  - 7af02737-4304-4c24-adb3-32ae46e6dd20
+  _nodeRect:
+    serializedVersion: 2
+    x: 2209
+    y: 437
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5240632559778638553
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: aece1b4e-14ad-4fdc-8c46-9cbb7f597936
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xA1NOO! \xBFy ahora qu\xE9?"
+  _nextDialogues:
+  - 061c98a8-ae24-4962-a403-f54d8cf7510a
+  _nodeRect:
+    serializedVersion: 2
+    x: 1492
+    y: 11
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5922351966469499773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: e73787f9-dd3e-4b5f-b7d8-71aeb48ed7e2
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Yees?
+  _nextDialogues:
+  - 702b6061-4926-41ac-a6c4-24ba2e2113a1
+  _nodeRect:
+    serializedVersion: 2
+    x: 1975
+    y: 354
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &7863136289216833488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 061c98a8-ae24-4962-a403-f54d8cf7510a
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "bueno... por ahora este sue\xF1o se repetir\xE1 una y otra vez,
+    \xBFest\xE1s listo?"
+  _nextDialogues:
+  - 4e81f9a1-2dac-4cd3-99b5-c3bf0eddeda6
+  - df54707d-ca2b-4bc8-8138-9166440e6085
+  _nodeRect:
+    serializedVersion: 2
+    x: 1771
+    y: 127
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 

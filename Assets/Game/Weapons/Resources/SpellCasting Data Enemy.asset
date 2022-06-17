@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: daa70b69e6cbde440adb1bfb522a9f4b, type: 3}
+  m_Name: SpellCasting Data Enemy
+  m_EditorClassIdentifier: 
+  _weaponAtHand: {fileID: 0}
+  _animatorOverrideController: {fileID: 22100000, guid: 6c2e87151a2c6874e8d8c240d9d23ac0, type: 2}
+  _distanceToAttack: 10
+  _weaponDamage: 15
+  _percentageBonus: 0
+  _isRightHanded: 0
+  _projectile: {fileID: 5667045880738156054, guid: 3dd44fd56c2c41d4797dde8f76273017, type: 3}

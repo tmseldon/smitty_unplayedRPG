@@ -1,0 +1,1360 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9090707491840087420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 757c2189-b358-415c-b068-d3692f27e656
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Aha... but it ashes are inside the rubber duck
+  _nextDialogues:
+  - c3fc2424-52eb-4db7-b429-427eaab0edad
+  - bbf53de1-8d8a-4c93-b96a-32cf36bc2f1d
+  _nodeRect:
+    serializedVersion: 2
+    x: 1432
+    y: 788
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-7629869496863199036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: f886a259-4071-4c73-9001-865032ba9152
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "As\xED es, tienes que recuperar el pato de hule de verdad y llevar
+    sus cenizas al gran hotel"
+  _nextDialogues:
+  - db6c7dba-82a0-44a5-b937-d25d373c08b8
+  _nodeRect:
+    serializedVersion: 2
+    x: 2309
+    y: 370
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-7238477536195540375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 431d533c-38bd-41e6-87b7-373f954df28b
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: I'm a visual representation of your memory. The memory of your friend
+    Smitty
+  _nextDialogues:
+  - 0e9615f1-8d55-4a5d-b597-e82164fd03c3
+  _nodeRect:
+    serializedVersion: 2
+    x: 959
+    y: 744
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-5572005019184627517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: cc735393-6fb4-46b2-86a1-b3ae541f5224
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Es verdad, ahora recuerdo...
+  _nextDialogues:
+  - f886a259-4071-4c73-9001-865032ba9152
+  _nodeRect:
+    serializedVersion: 2
+    x: 2053
+    y: 251
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-5310944697790037294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 9922518f-4b3e-4166-81b2-d87878550c92
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Bwoah, how do you know my name, who are you?
+  _nextDialogues:
+  - 431d533c-38bd-41e6-87b7-373f954df28b
+  _nodeRect:
+    serializedVersion: 2
+    x: 1244
+    y: 628
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-5135648378756236196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 39e5e288-f1f9-4323-87c5-936e1bf9394e
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "S\xED, esa persona tiene informaci\xF3n m\xE1s detallada del CREADOR"
+  _nextDialogues:
+  - 35d9f4c8-7409-483a-a7e4-de149afded2b
+  _nodeRect:
+    serializedVersion: 2
+    x: 3313
+    y: 199
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-5079754248632528048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 84b71ad6-e9e8-431b-9c27-eeae7cff16e9
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Bienvenido de vuelta Chak
+  _nextDialogues:
+  - 21373f09-210b-4157-a236-d1e0c9079ff4
+  - f788556c-58ae-4738-9280-6870f4431342
+  _nodeRect:
+    serializedVersion: 2
+    x: 922
+    y: 19
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-4932841838086896047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: f70f29d8-d90f-45aa-8dce-1c3187bd4a3d
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Anyway, your memory is full, I have no further things to tell you
+  _nextDialogues:
+  - 2fa76e4e-e7b4-4620-bec8-d45a13305440
+  _nodeRect:
+    serializedVersion: 2
+    x: 3136
+    y: 708
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-4829082367910731409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 19770568-2c48-4fe2-bb34-22a8b4e4bdd9
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Yeah that's right, somebody else told me about that
+  _nextDialogues:
+  - 2a7a91ff-2e58-4ec9-b5c5-4f0666a3abac
+  _nodeRect:
+    serializedVersion: 2
+    x: 2529
+    y: 614
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-4596388202070557407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 21373f09-210b-4157-a236-d1e0c9079ff4
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFDe vuelta? ya he estado ac\xE1?.. antes?"
+  _nextDialogues:
+  - 7578dbab-8e4b-459b-a604-3d76c12919df
+  _nodeRect:
+    serializedVersion: 2
+    x: 1122
+    y: 19
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-2915593431819917379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 7578dbab-8e4b-459b-a604-3d76c12919df
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "S\xED, esta es tu memoria y yo..."
+  _nextDialogues:
+  - e1f5d180-d7db-485e-b76e-65dd4d79a5e4
+  _nodeRect:
+    serializedVersion: 2
+    x: 1404
+    y: 19
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-2818841756073445870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: dd29574a-d334-482d-800b-0f90ab9770ea
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: But... why are there so many guards?
+  _nextDialogues:
+  - e4ba2e9f-6d5b-411a-8c2b-3f1dd000917e
+  _nodeRect:
+    serializedVersion: 2
+    x: 2080
+    y: 755
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-2576061025147382915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: af8acb14-f641-4da1-97fb-1be56216d3fd
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: ...BACK? Have I been here before?
+  _nextDialogues:
+  - 451824f5-0c60-49be-9fd2-72d7be0a5524
+  _nodeRect:
+    serializedVersion: 2
+    x: 1220
+    y: 490
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-2384312530890576440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 0e9615f1-8d55-4a5d-b597-e82164fd03c3
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Eh?.. but Smitty has NEVER been a duck
+  _nextDialogues:
+  - 757c2189-b358-415c-b068-d3692f27e656
+  _nodeRect:
+    serializedVersion: 2
+    x: 1216
+    y: 788
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-2334913042945914493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 89d133e6-70cc-4a0d-89ce-cf8c44bcc577
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Have you any kind of info perhaps?
+  _nextDialogues:
+  - 5f2299e9-c699-40a9-9c3c-379bd2641812
+  _nodeRect:
+    serializedVersion: 2
+    x: 2981
+    y: 1063
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-2279626125477635803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: db6c7dba-82a0-44a5-b937-d25d373c08b8
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "Pero... \xBFpor qu\xE9 hay tantos guardias?"
+  _nextDialogues:
+  - a1339dae-069d-4852-ba6e-162d0cdb09fc
+  _nodeRect:
+    serializedVersion: 2
+    x: 2539
+    y: 371
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-2268771828418132280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 91567ef0-ba61-4b60-a163-6588c9b3c0af
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Hi~~~~~!
+  _nextDialogues:
+  - 61c957ea-65f8-4aaa-8a52-10a031bd24bf
+  - 6ca1995b-3624-448a-876e-7709069e1f8e
+  _nodeRect:
+    serializedVersion: 2
+    x: 36
+    y: 258
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-1466778977573053287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: fc46e47b-2987-485c-b18b-af0848fcde81
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: HeeEEellooOOO~~! (wait, since when I can talk 'duck')
+  _nextDialogues:
+  - 9cc39eff-6df2-4ce8-91d3-a698ed80c852
+  _nodeRect:
+    serializedVersion: 2
+    x: 745
+    y: 490
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-1434466928172649750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 264d3930-8deb-492c-b947-50990d6887b8
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Ok... search for somebody else...
+  _nextDialogues:
+  - 2a7a91ff-2e58-4ec9-b5c5-4f0666a3abac
+  _nodeRect:
+    serializedVersion: 2
+    x: 2979
+    y: 855
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-986606768681270701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 908aeee7-0531-4b45-a219-d77cbbb6e561
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Indeed. You need to recover the real rubber duck and take the ashes
+    to the grand hotel
+  _nextDialogues:
+  - dd29574a-d334-482d-800b-0f90ab9770ea
+  _nodeRect:
+    serializedVersion: 2
+    x: 1880
+    y: 755
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-910331301784927915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: f788556c-58ae-4738-9280-6870f4431342
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "Momento, c\xF3mo sabes mi nombre, \xBFqui\xE9n eres?"
+  _nextDialogues:
+  - e1f5d180-d7db-485e-b76e-65dd4d79a5e4
+  _nodeRect:
+    serializedVersion: 2
+    x: 1122
+    y: 176
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-603754395820366014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: c3fc2424-52eb-4db7-b429-427eaab0edad
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: That's right! I remember now...
+  _nextDialogues:
+  - 908aeee7-0531-4b45-a219-d77cbbb6e561
+  _nodeRect:
+    serializedVersion: 2
+    x: 1658
+    y: 668
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-295640660187515277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: b4d831b9-88ee-4417-8295-34ceaa80ef49
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Hmm.. otra persona entonces
+  _nextDialogues:
+  - 39e5e288-f1f9-4323-87c5-936e1bf9394e
+  _nodeRect:
+    serializedVersion: 2
+    x: 3763
+    y: 427
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &-89444104749064604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 4bbacb71-1a35-4635-a382-35f1e2364dd1
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "No entiendo de qu\xE9 hablas"
+  _nextDialogues:
+  - c9442129-4472-4ef5-8ea0-34ac220ef8e9
+  _nodeRect:
+    serializedVersion: 2
+    x: 3044
+    y: 479
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdfeae62bfc74a14093f54d61e4bb6ac, type: 3}
+  m_Name: d_Patito
+  m_EditorClassIdentifier: 
+  _dialogues:
+  - {fileID: -2268771828418132280}
+  - {fileID: 5793959269384445746}
+  - {fileID: 1697577295244501603}
+  - {fileID: 5526392571844684901}
+  - {fileID: -5079754248632528048}
+  - {fileID: -4596388202070557407}
+  - {fileID: -910331301784927915}
+  - {fileID: -2915593431819917379}
+  - {fileID: 5428270664113194515}
+  - {fileID: 8450216370631140917}
+  - {fileID: 585718049887388704}
+  - {fileID: 6670758547676280545}
+  - {fileID: -5572005019184627517}
+  - {fileID: 8930093045413492758}
+  - {fileID: -7629869496863199036}
+  - {fileID: -2279626125477635803}
+  - {fileID: 5376661689345327502}
+  - {fileID: 5317547822851268938}
+  - {fileID: -5135648378756236196}
+  - {fileID: 5212681797371005101}
+  - {fileID: 3544030534506683506}
+  - {fileID: -89444104749064604}
+  - {fileID: 3936405289445316388}
+  - {fileID: 956796645896142040}
+  - {fileID: 7425741432479671899}
+  - {fileID: 7049782807705143133}
+  - {fileID: -295640660187515277}
+  - {fileID: 5751281777733207222}
+  - {fileID: 936610464249445751}
+  - {fileID: -1466778977573053287}
+  - {fileID: 1106415613519684309}
+  - {fileID: 6602982133910259309}
+  - {fileID: -2576061025147382915}
+  - {fileID: -5310944697790037294}
+  - {fileID: 4529113042871844928}
+  - {fileID: -7238477536195540375}
+  - {fileID: -2384312530890576440}
+  - {fileID: -9090707491840087420}
+  - {fileID: -603754395820366014}
+  - {fileID: 561475799269775680}
+  - {fileID: -986606768681270701}
+  - {fileID: -2818841756073445870}
+  - {fileID: 4455945584510517691}
+  - {fileID: -4829082367910731409}
+  - {fileID: 4779683480738144172}
+  - {fileID: 8283585724316999977}
+  - {fileID: -4932841838086896047}
+  - {fileID: 4239810673546500316}
+  - {fileID: 3536865503578313238}
+  - {fileID: -1434466928172649750}
+  - {fileID: -2334913042945914493}
+  - {fileID: 3706255175109809864}
+  - {fileID: 8054090243905052015}
+--- !u!114 &561475799269775680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: bbf53de1-8d8a-4c93-b96a-32cf36bc2f1d
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: What? Smitty... is dead?
+  _nextDialogues:
+  - 908aeee7-0531-4b45-a219-d77cbbb6e561
+  _nodeRect:
+    serializedVersion: 2
+    x: 1658
+    y: 830
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &585718049887388704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 527ebc2c-7c02-4a5b-82dd-4959b2a478d3
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFEh?.. pero Smitty NUNCA ha sido un pato"
+  _nextDialogues:
+  - a19c23aa-0bf0-4221-84c1-1e038be3b286
+  _nodeRect:
+    serializedVersion: 2
+    x: 1574
+    y: 350
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &936610464249445751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 1d4f00b7-0677-4375-99c1-7a6970656357
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Hello~~~!
+  _nextDialogues:
+  - fc46e47b-2987-485c-b18b-af0848fcde81
+  - 2d73ddbf-3ac4-4b56-8b16-5a7d98b8b056
+  _nodeRect:
+    serializedVersion: 2
+    x: 483
+    y: 597
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &956796645896142040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: d6fb3eea-4fc6-46d1-8c54-10df7d82b0d7
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "Ok... buscar a alguien m\xE1s entonces..."
+  _nextDialogues:
+  - 39e5e288-f1f9-4323-87c5-936e1bf9394e
+  _nodeRect:
+    serializedVersion: 2
+    x: 3503
+    y: 393
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1106415613519684309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 2d73ddbf-3ac4-4b56-8b16-5a7d98b8b056
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Hello? who I'm talking with?
+  _nextDialogues:
+  - 431d533c-38bd-41e6-87b7-373f954df28b
+  _nodeRect:
+    serializedVersion: 2
+    x: 705
+    y: 707
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &1697577295244501603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: a4c8a04c-5c48-4e3f-a3f3-9e20dae7940e
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Hola~~~!
+  _nextDialogues:
+  - fdfe9038-d528-4423-acfb-541170d5dd0c
+  - 7555f730-a906-4150-9a87-61e84e541758
+  _nodeRect:
+    serializedVersion: 2
+    x: 491
+    y: 75
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &3536865503578313238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: a2c872e4-109c-4f34-b220-c9cdbf157199
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: There is someone at the world who can give you more information...
+    find him
+  _nextDialogues:
+  - 264d3930-8deb-492c-b947-50990d6887b8
+  - 89d133e6-70cc-4a0d-89ce-cf8c44bcc577
+  _nodeRect:
+    serializedVersion: 2
+    x: 2750
+    y: 960
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &3544030534506683506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: b0e6ab40-acf5-4669-9529-3580686709eb
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Oh nou...
+  _nextDialogues: []
+  _nodeRect:
+    serializedVersion: 2
+    x: 3802
+    y: 197
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &3706255175109809864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 5f2299e9-c699-40a9-9c3c-379bd2641812
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Nope, I'm just your memory. It is possible that you don't have that
+    memory available
+  _nextDialogues:
+  - 1c42cf35-fcfb-49fe-9dc0-30a523f6fcf3
+  _nodeRect:
+    serializedVersion: 2
+    x: 3181
+    y: 1063
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &3936405289445316388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: c9442129-4472-4ef5-8ea0-34ac220ef8e9
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "Dentro del mundo hay alguien m\xE1s que te puede dar informaci\xF3n...
+    b\xFAscalo"
+  _nextDialogues:
+  - d6fb3eea-4fc6-46d1-8c54-10df7d82b0d7
+  - c1743494-764f-4aa8-aed1-190d528923b7
+  _nodeRect:
+    serializedVersion: 2
+    x: 3295
+    y: 481
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &4239810673546500316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 2fa76e4e-e7b4-4620-bec8-d45a13305440
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Oh nyo...
+  _nextDialogues: []
+  _nodeRect:
+    serializedVersion: 2
+    x: 3416
+    y: 756
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &4455945584510517691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: e4ba2e9f-6d5b-411a-8c2b-3f1dd000917e
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: This is just a part of a great plan.. created by the CREATOR of
+    this story
+  _nextDialogues:
+  - 19770568-2c48-4fe2-bb34-22a8b4e4bdd9
+  - c160146e-49a7-4ecc-b8a0-d3d3ca2826de
+  _nodeRect:
+    serializedVersion: 2
+    x: 2280
+    y: 755
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &4529113042871844928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 451824f5-0c60-49be-9fd2-72d7be0a5524
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Indeed, this is actually your memory and...
+  _nextDialogues:
+  - 431d533c-38bd-41e6-87b7-373f954df28b
+  _nodeRect:
+    serializedVersion: 2
+    x: 1452
+    y: 488
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &4779683480738144172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: c160146e-49a7-4ecc-b8a0-d3d3ca2826de
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: I don't understand anything that you said
+  _nextDialogues:
+  - a2c872e4-109c-4f34-b220-c9cdbf157199
+  _nodeRect:
+    serializedVersion: 2
+    x: 2516
+    y: 961
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5212681797371005101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 35d9f4c8-7409-483a-a7e4-de149afded2b
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "En todo caso, tu memoria esta llena, no tengo m\xE1s cosas que
+    decirte"
+  _nextDialogues:
+  - b0e6ab40-acf5-4669-9529-3580686709eb
+  _nodeRect:
+    serializedVersion: 2
+    x: 3557
+    y: 197
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5317547822851268938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: d2b35eba-9d38-4c6f-b7eb-bcccd19eacdb
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "Aah verdad, hay alguien m\xE1s que me dijo sobre eso"
+  _nextDialogues:
+  - 39e5e288-f1f9-4323-87c5-936e1bf9394e
+  _nodeRect:
+    serializedVersion: 2
+    x: 3043
+    y: 200
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5376661689345327502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: a1339dae-069d-4852-ba6e-162d0cdb09fc
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "Es parte del plan del CREADOR de esta historia, esto es s\xF3lo
+    una parte de un gran plan"
+  _nextDialogues:
+  - d2b35eba-9d38-4c6f-b7eb-bcccd19eacdb
+  - 4bbacb71-1a35-4635-a382-35f1e2364dd1
+  _nodeRect:
+    serializedVersion: 2
+    x: 2773
+    y: 372
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5428270664113194515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 7555f730-a906-4150-9a87-61e84e541758
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFHola? \xBFcon qui\xE9n hablo?"
+  _nextDialogues:
+  - e1f5d180-d7db-485e-b76e-65dd4d79a5e4
+  _nodeRect:
+    serializedVersion: 2
+    x: 715
+    y: 305
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5526392571844684901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: fdfe9038-d528-4423-acfb-541170d5dd0c
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xA1HooOOolaaAAA~~! (ehm desde cu\xE1ndo s\xE9 hablar pato?)"
+  _nextDialogues:
+  - 84b71ad6-e9e8-431b-9c27-eeae7cff16e9
+  _nodeRect:
+    serializedVersion: 2
+    x: 722
+    y: 19
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5751281777733207222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 6ca1995b-3624-448a-876e-7709069e1f8e
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Hi~~~~~!
+  _nextDialogues:
+  - 1d4f00b7-0677-4375-99c1-7a6970656357
+  _nodeRect:
+    serializedVersion: 2
+    x: 283
+    y: 597
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &5793959269384445746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 61c957ea-65f8-4aaa-8a52-10a031bd24bf
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFQu\xE9? Sorry m\xEDster no le hablo inglish"
+  _nextDialogues:
+  - a4c8a04c-5c48-4e3f-a3f3-9e20dae7940e
+  _nodeRect:
+    serializedVersion: 2
+    x: 270
+    y: 80
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &6602982133910259309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 9cc39eff-6df2-4ce8-91d3-a698ed80c852
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Welcome back Chak
+  _nextDialogues:
+  - af8acb14-f641-4da1-97fb-1be56216d3fd
+  - 9922518f-4b3e-4166-81b2-d87878550c92
+  _nodeRect:
+    serializedVersion: 2
+    x: 945
+    y: 490
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &6670758547676280545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: a19c23aa-0bf0-4221-84c1-1e038be3b286
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "Aj\xE1... pero sus cenizas est\xE1n dentro de un pato de juguete"
+  _nextDialogues:
+  - cc735393-6fb4-46b2-86a1-b3ae541f5224
+  - b61e2602-b94a-4e14-ae13-ca199a62f646
+  _nodeRect:
+    serializedVersion: 2
+    x: 1807
+    y: 350
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &7049782807705143133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 702ffae3-462c-4e83-9e4b-795a4e515512
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "No, soy s\xF3lo tu memoria y es posible que no tengas esa memoria
+    disponible"
+  _nextDialogues:
+  - b4d831b9-88ee-4417-8295-34ceaa80ef49
+  _nodeRect:
+    serializedVersion: 2
+    x: 3703
+    y: 597
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &7425741432479671899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: c1743494-764f-4aa8-aed1-190d528923b7
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFT\xFA no tienes informaci\xF3n acaso?"
+  _nextDialogues:
+  - 702ffae3-462c-4e83-9e4b-795a4e515512
+  _nodeRect:
+    serializedVersion: 2
+    x: 3503
+    y: 597
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &8054090243905052015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 1c42cf35-fcfb-49fe-9dc0-30a523f6fcf3
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: Hmm.. other person then
+  _nextDialogues:
+  - 2a7a91ff-2e58-4ec9-b5c5-4f0666a3abac
+  _nodeRect:
+    serializedVersion: 2
+    x: 3381
+    y: 1063
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &8283585724316999977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: 2a7a91ff-2e58-4ec9-b5c5-4f0666a3abac
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: Yes, that person has more detailed info about the CREATOR
+  _nextDialogues:
+  - f70f29d8-d90f-45aa-8dce-1c3187bd4a3d
+  _nodeRect:
+    serializedVersion: 2
+    x: 2843
+    y: 616
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &8450216370631140917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: e1f5d180-d7db-485e-b76e-65dd4d79a5e4
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 0
+  _textDialogue: "Soy s\xF3lo una representaci\xF3n visual de la memoria de tu amigo
+    Smitty"
+  _nextDialogues:
+  - 527ebc2c-7c02-4a5b-82dd-4959b2a478d3
+  _nodeRect:
+    serializedVersion: 2
+    x: 1306
+    y: 349
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
+--- !u!114 &8930093045413492758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8067d6ac535475346a162db3fd82a105, type: 3}
+  m_Name: b61e2602-b94a-4e14-ae13-ca199a62f646
+  m_EditorClassIdentifier: 
+  _isPlayerSpeaking: 1
+  _textDialogue: "\xBFC\xF3mo? \xBFSmitty no est\xE1 vivo?"
+  _nextDialogues:
+  - f886a259-4071-4c73-9001-865032ba9152
+  _nodeRect:
+    serializedVersion: 2
+    x: 2034
+    y: 470
+    width: 200
+    height: 100
+  _onEnterAction: 
+  _onExitAction: 
